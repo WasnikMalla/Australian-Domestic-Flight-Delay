@@ -1,0 +1,45 @@
+Departing_Port_station_name,station_ID,url
+ADELAIDE AIRPORT,23024,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0034_023034.csv
+ALBURY AIRPORT,72146,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0037_072146.csv
+ALICE SPRINGS AIRPORT,15590,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0038_015590.csv
+ARMIDALE AIRPORT AWS,56238,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0037_056238.csv
+BALLINA AIRPORT AWS,58198,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0037_058198.csv
+BRISBANE AERO,40842,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_040842.csv
+BROOME AIRPORT,3003,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0039_003003.csv
+BUNDABERG AERO,39128,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_039128.csv
+CAIRNS AERO,31011,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_031011.csv
+COOLANGATTA,40717,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_040717.csv
+DARWIN AIRPORT,14015,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0038_014015.csv
+DEVONPORT AIRPORT,91126,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0033_091126.csv
+DUBBO AIRPORT AWS,65070,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0037_065070.csv
+EMERALD AIRPORT,35264,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_035264.csv
+GERALDTON TOWN,8050,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0039_008050.csv
+GLADSTONE AIRPORT,39326,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_039326.csv
+HAMILTON ISLAND,33255,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_033255.csv
+HERVEY BAY AIRPORT,40405,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_040405.csv
+HOBART AIRPORT,94008,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0033_094008.csv
+KALGOORLIE-BOULDER AIRPORT,12038,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0039_012038.csv
+KARRATHA AERO,4083,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0039_004083.csv
+LAUNCESTON AIRPORT,91311,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0033_091311.csv
+MACKAY AERO,33045,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_033045.csv
+MELBOURNE AIRPORT,86282,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0035_086282.csv
+MILDURA AIRPORT,76031,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0035_076031.csv
+MOUNT ISA AERO,29127,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_029127.csv
+NEWMAN AERO,7176,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0039_007176.csv
+NORTH SHIELDS (PORT LINCOLN AWS),18192,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0034_018192.csv
+PERTH AIRPORT,9021,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0039_009021.csv
+PORT HEDLAND AIRPORT,4032,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0039_004032.csv
+PORT MACQUARIE AIRPORT AWS,60139,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0037_060139.csv
+PROSERPINE AIRPORT,33247,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_033247.csv
+QUEANBEYAN BOWLING CLUB,70072,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0037_070072.csv
+ROCKHAMPTON AERO,39083,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_039083.csv
+SUNSHINE COAST AIRPORT,40861,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_040861.csv
+SYDNEY AIRPORT AMO,66037,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0037_066037.csv
+TAMWORTH AIRPORT AWS,55325,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0037_055325.csv
+TOWNSVILLE AERO,32040,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_032040.csv
+WAGGA WAGGA AMO,72150,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0037_072150.csv
+WILLIAMTOWN RAAF,61078,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0037_061078.csv
+WYNYARD AIRPORT,91107,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0033_091107.csv
+YULARA AIRPORT,15635,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0038_015635.csv
+LOWER BUCCA,59006,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0037_059006.csv
+MORANBAH WATER TREATMENT PLANT,034038,http://www.bom.gov.au/clim_data/cdio/tables/text/IDCJCM0036_034038.csv
